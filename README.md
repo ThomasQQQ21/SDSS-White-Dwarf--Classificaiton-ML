@@ -3,7 +3,10 @@ Machine Learning Classification of White Dwarfs in SDSS DR 14 Spectra using Boos
 
 Used PCA to reduce Dimensions of Spectra 
 
+Used Optuna for Hyperparameter Optimization
+
 Can substitute Xgboost or Lightgbm for CatBoost
+
 
 
 ## Acknowledgments
