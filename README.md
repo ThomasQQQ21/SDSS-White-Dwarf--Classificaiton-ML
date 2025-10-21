@@ -1,5 +1,5 @@
 # SDSS-White-Dwarf--Classificaiton-ML
-Machine Learning Classification of White Dwarfs in SDSS DR 14 Spectra using Boosted Models
+Machine Learning Classification of White Dwarfs Subtypes(DA,DB,etc.) in SDSS DR 14 Spectra using Boosted Models
 
 Used PCA to reduce Dimensions of Spectra 
 
