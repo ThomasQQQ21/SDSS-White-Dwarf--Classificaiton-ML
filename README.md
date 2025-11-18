@@ -1,11 +1,11 @@
-# SDSS-White-Dwarf--Classificaiton-ML
-Machine Learning Classification of White Dwarfs Subtypes(DA,DB,etc.) in SDSS DR 14 Spectra using Boosted Models
+# SDSS-White-Dwarf--Classification-ML
+Machine Learning Classification of White Dwarfs Subtypes(DA,DB,etc.) in SDSS Data Release 14 Spectra using Boosted Models
 
 Used PCA to reduce Dimensions of Spectra 
 
 Used Optuna for Hyperparameter Optimization
 
-Can substitute Xgboost or Lightgbm for CatBoost
+Can substitute Xgboost or Lightgbm for CatBoost in the code
 
 
 
