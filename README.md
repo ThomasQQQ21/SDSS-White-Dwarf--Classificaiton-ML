@@ -1,4 +1,4 @@
-# SDSS-White-Dwarf--Classification-ML
+# SDSS-White-Dwarf-Classification-ML
 Machine Learning Classification of White Dwarfs Subtypes(DA,DB,etc.) in SDSS Data Release 14 Spectra using Boosted Models
 
 Used PCA to reduce Dimensions of Spectra 
